@@ -1,5 +1,5 @@
 ## Hello 👋  I'm Krishna Pipaliya
-## Full-Stack Web Developer | Computer Engineering Student
+## FrontEnd Web Developer | Computer Engineering Student
 
 ## About Me
 - 🔭 I’m a FrontEnd Developer specializing in HTML, CSs, JavaScript
